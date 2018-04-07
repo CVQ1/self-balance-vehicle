@@ -1,0 +1,46 @@
+Debug/LEDBlink.o: LEDBlink.cpp \
+ C:\Users\15725\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h \
+ C:\Users\15725\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h \
+ C:\Users\15725\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/CoreSupport/core_cm3.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ C:\Users\15725\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h \
+ C:\Users\15725\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h \
+ bsp_SysTick.h bsp_led.h bsp_usart.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdio.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\newlib.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\config.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\ieeefp.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\cdefs.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stddef.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stdarg.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\reent.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\lock.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\endian.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_endian.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\select.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_sigset.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timeval.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\timespec.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timespec.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\stdio.h mpu6050.h bsp_i2c.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\inttypes.h bsp_AdvanceTim.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\math.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\cmath \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\arm-eabi\thumb\cortex_m3\bits\c++config.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\arm-eabi\thumb\cortex_m3\bits\os_defines.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\arm-eabi\thumb\cortex_m3\bits\cpu_defines.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\bits\cpp_type_traits.h \
+ c:\sysgcc\arm-eabi\arm-eabi\include\c++\6.2.0\ext\type_traits.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\math.h
